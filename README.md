@@ -4,6 +4,8 @@
 
 Le **Context Engineering** est l'art de structurer et d'optimiser les informations que vous partagez avec l'IA pour obtenir des résultats précis, pertinents et exploitables.
 
+> 📚 **Recherche actuelle** : Les techniques de Context Engineering évoluent rapidement, allant bien au-delà du prompt engineering traditionnel pour inclure l'optimisation des fenêtres contextuelles, la gestion intelligente de la mémoire, et les approches de récupération augmentée ([Survey 2024](https://arxiv.org/pdf/2507.13334)).
+
 ## 🚀 Démarrage rapide
 
 1. **Découvrir** → [Qu'est-ce que le Context Engineering ?](basics/what-is-context-engineering.md)
@@ -124,6 +126,7 @@ Techniques de débogage assisté par IA
 - **[AI Engineering Discord](https://discord.gg/ai-engineering)** - Discussions en temps réel
 
 ### Research et Academic Papers
+- **[A Survey of Context Engineering for LLMs](https://arxiv.org/pdf/2507.13334)** (ArXiv 2024) - Étude de référence qui synthétise les techniques avancées de manipulation de contexte, l'optimisation des fenêtres contextuelles, et les approches de récupération augmentée. Indispensable pour comprendre l'état de l'art académique.
 - **[Prompt Engineering Institute](https://promptengineering.institute/)** - Recherche académique
 - **[OpenAI Research](https://openai.com/research/)** - Publications officielles OpenAI
 
