@@ -27,9 +27,9 @@ Le **Context Engineering** est l'art de structurer et d'optimiser les informatio
 
 ---
 
-## 🤖 Agents - Les assistants IA populaires
+## 🤖 Agents de Vibe Coding/Pairing
 
-> *Focus sur l'optimisation spécifique à chaque outil*
+> *Focus sur l'optimisation spécifique à chaque outil de développement collaboratif*
 
 ### [Claude](agents/claude/) 🎯
 - **Documentation officielle** → [docs.anthropic.com](https://docs.anthropic.com/en/docs/intro-to-claude)
@@ -48,6 +48,21 @@ Le **Context Engineering** est l'art de structurer et d'optimiser les informatio
 ### [Gemini CLI](agents/gemini/) 🌟
 - **Documentation officielle** → [ai.google.dev/gemini-api/docs/cli](https://ai.google.dev/gemini-api/docs/cli)
 - **[Project Context Strategies](agents/gemini/project-context/)** 🚧 *TODO* - Gestion de contexte pour projets complexes
+
+### [Windsurf](agents/windsurf/) 🏄‍♂️
+- **Documentation officielle** → [codeium.com/windsurf](https://codeium.com/windsurf)
+- **[Flow Optimization](agents/windsurf/flow-optimization/)** 🚧 *TODO* - Optimisation des workflows de développement
+- **[Context Strategies](agents/windsurf/context-strategies/)** 🚧 *TODO* - Techniques de contextualisation avancées
+
+### [KiloCode](agents/kilocode/) ⚡
+- **Documentation officielle** → [kilocode.dev](https://kilocode.dev)
+- **[Project Setup Patterns](agents/kilocode/project-patterns/)** 🚧 *TODO* - Patterns d'initialisation et configuration
+- **[Context Engineering Tips](agents/kilocode/context-tips/)** 🚧 *TODO* - Bonnes pratiques de contextualisation
+
+### [Kiro](agents/kiro/) 🤖
+- **Documentation officielle** → [kiro.ai](https://kiro.ai)
+- **[Advanced Workflows](agents/kiro/workflows/)** 🚧 *TODO* - Workflows de développement optimisés
+- **[Context Management](agents/kiro/context-management/)** 🚧 *TODO* - Gestion intelligente du contexte
 
 ### [Comparaison rapide](agents/quick-comparison.md) 📊 🚧 *TODO*
 Tableau comparatif des forces et cas d'usage de chaque agent
