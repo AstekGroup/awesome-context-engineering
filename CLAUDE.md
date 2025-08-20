@@ -11,7 +11,7 @@ This is **Awesome Context Engineering**, a curated guide in French for mastering
 ### Content Structure Philosophy
 - **Documentation-centric**: Repository is primarily markdown-based educational content
 - **Agent-specific optimization**: Separate sections for Claude, Cursor, GitHub Copilot, and Gemini CLI
-- **Framework focus**: Original frameworks like SuperClaude, BMAD-METHOD, and Cursor Rules patterns
+- **Framework focus**: Organized frameworks (agent-agnostic like BMAD-METHOD vs agent-specific like SuperClaude/Cursor Rules)
 - **Template-driven**: Ready-to-use templates for practical implementation
 - **French-first**: Content is primarily in French with some English technical terms
 
@@ -24,9 +24,9 @@ agents/                    # Agent-specific optimization techniques
 └── gemini/               # Gemini CLI project context techniques
 
 frameworks/               # Advanced methodologies
-├── superclaude/         # SuperClaude Framework integration
-├── bmad-method/         # BMAD-METHOD universal AI agent framework
-└── cursor-rules/        # Cursor Rules patterns
+├── bmad-method/         # BMAD-METHOD (agent-agnostic framework)
+├── superclaude/         # SuperClaude (Claude-specific framework)
+└── cursor-rules/        # Cursor Rules (Cursor-specific patterns)
 
 templates/               # Ready-to-use templates
 examples/                # Real-world use cases
@@ -46,6 +46,11 @@ basics/                  # Fundamental concepts
 - **Focus on optimization**: Advanced techniques, not basic concepts  
 - **Original value**: Create content where unique insights can be provided
 - **Battle-tested**: Prioritize proven patterns and templates
+
+### Framework Organization
+- **Agent-Agnostic**: Universal methodologies (BMAD-METHOD, Vibe Coding Guide)
+- **Agent-Specific**: Optimizations for particular tools (SuperClaude for Claude, Cursor Rules for Cursor)
+- **Hierarchical Structure**: Clear separation helps users find relevant frameworks faster
 
 ### TODO Item Management
 - Current status: Most content marked as 🚧 *TODO* (early development phase)

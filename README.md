@@ -58,22 +58,30 @@ Tableau comparatif des forces et cas d'usage de chaque agent
 
 > *Frameworks originaux pour workflows professionnels*
 
-### [SuperClaude](frameworks/superclaude/) 🌟
-- **Framework officiel** → [SuperClaude Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)
-- **[Quick Examples](frameworks/superclaude/examples/)** 🚧 *TODO* - Cas d'usage pratiques
-- **[Integration Patterns](frameworks/superclaude/integration-patterns.md)** 🚧 *TODO* - Patterns d'intégration avancés
+### 🌐 Frameworks Agent-Agnostiques
 
-### [Cursor Rules](frameworks/cursor-rules/) ⚙️
-- **[Advanced Patterns](frameworks/cursor-rules/basic-patterns.md)** 🚧 *TODO* - Patterns éprouvés
-- **[Rule Templates](frameworks/cursor-rules/templates/)** 🚧 *TODO* - Templates ready-to-use
+> *Méthodologies universelles compatibles avec tous les agents IA*
 
-### [BMAD-METHOD](frameworks/bmad-method/) 🔥
+#### [BMAD-METHOD](frameworks/bmad-method/) 🔥
 - **Framework officiel** → [BMAD-METHOD Repository](https://github.com/bmad-code-org/BMAD-METHOD)
 - **[Agentic Planning Strategies](frameworks/bmad-method/agentic-planning.md)** 🚧 *TODO* - Planification collaborative multi-agents
 - **[Context-Engineered Development](frameworks/bmad-method/context-development.md)** 🚧 *TODO* - Développement avec contexte enrichi
 
-### [Vibe Coding Guide](frameworks/vibe-coding-guide.md) 🎨 🚧 *TODO*
+#### [Vibe Coding Guide](frameworks/vibe-coding-guide.md) 🎨 🚧 *TODO*
 Méthodologie de développement collaboratif humain-IA
+
+### 🤖 Frameworks Spécifiques aux Agents
+
+> *Optimisations dédiées à des agents particuliers*
+
+#### [SuperClaude](frameworks/superclaude/) 🌟
+- **Framework officiel** → [SuperClaude Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)
+- **[Quick Examples](frameworks/superclaude/examples/)** 🚧 *TODO* - Cas d'usage pratiques
+- **[Integration Patterns](frameworks/superclaude/integration-patterns.md)** 🚧 *TODO* - Patterns d'intégration avancés
+
+#### [Cursor Rules](frameworks/cursor-rules/) ⚙️
+- **[Advanced Patterns](frameworks/cursor-rules/basic-patterns.md)** 🚧 *TODO* - Patterns éprouvés
+- **[Rule Templates](frameworks/cursor-rules/templates/)** 🚧 *TODO* - Templates ready-to-use
 
 **Pourquoi cette section ?** Contenu original et patterns d'usage avancés non documentés ailleurs.
 
