@@ -67,6 +67,11 @@ Tableau comparatif des forces et cas d'usage de chaque agent
 - **[Advanced Patterns](frameworks/cursor-rules/basic-patterns.md)** 🚧 *TODO* - Patterns éprouvés
 - **[Rule Templates](frameworks/cursor-rules/templates/)** 🚧 *TODO* - Templates ready-to-use
 
+### [BMAD-METHOD](frameworks/bmad-method/) 🔥
+- **Framework officiel** → [BMAD-METHOD Repository](https://github.com/bmad-code-org/BMAD-METHOD)
+- **[Agentic Planning Strategies](frameworks/bmad-method/agentic-planning.md)** 🚧 *TODO* - Planification collaborative multi-agents
+- **[Context-Engineered Development](frameworks/bmad-method/context-development.md)** 🚧 *TODO* - Développement avec contexte enrichi
+
 ### [Vibe Coding Guide](frameworks/vibe-coding-guide.md) 🎨 🚧 *TODO*
 Méthodologie de développement collaboratif humain-IA
 

@@ -11,7 +11,7 @@ This is **Awesome Context Engineering**, a curated guide in French for mastering
 ### Content Structure Philosophy
 - **Documentation-centric**: Repository is primarily markdown-based educational content
 - **Agent-specific optimization**: Separate sections for Claude, Cursor, GitHub Copilot, and Gemini CLI
-- **Framework focus**: Original frameworks like SuperClaude and Cursor Rules patterns
+- **Framework focus**: Original frameworks like SuperClaude, BMAD-METHOD, and Cursor Rules patterns
 - **Template-driven**: Ready-to-use templates for practical implementation
 - **French-first**: Content is primarily in French with some English technical terms
 
@@ -25,6 +25,7 @@ agents/                    # Agent-specific optimization techniques
 
 frameworks/               # Advanced methodologies
 ├── superclaude/         # SuperClaude Framework integration
+├── bmad-method/         # BMAD-METHOD universal AI agent framework
 └── cursor-rules/        # Cursor Rules patterns
 
 templates/               # Ready-to-use templates
