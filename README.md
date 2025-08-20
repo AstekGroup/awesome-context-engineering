@@ -6,7 +6,7 @@ Le **Context Engineering** est l'art de structurer et d'optimiser les informatio
 
 ## 🚀 Démarrage rapide
 
-1. **Découvrir** → [Qu'est-ce que le Context Engineering ?](basics/what-is-context-engineering.md) 🚧 *TODO*
+1. **Découvrir** → [Qu'est-ce que le Context Engineering ?](basics/what-is-context-engineering.md)
 2. **Appliquer** → [Templates prêts à l'emploi](templates/) 🚧 *TODO*
 3. **S'inspirer** → [Exemples concrets](examples/) 🚧 *TODO*
 4. **Progresser** → [Frameworks avancés](frameworks/) 🚧 *TODO*
@@ -17,7 +17,7 @@ Le **Context Engineering** est l'art de structurer et d'optimiser les informatio
 
 > *Comprendre les concepts essentiels du Context Engineering*
 
-- **[What is Context Engineering](basics/what-is-context-engineering.md)** 🚧 *TODO* - Introduction aux concepts clés
+- **[What is Context Engineering](basics/what-is-context-engineering.md)** - Introduction aux concepts clés
 - **[Prompt Design 101](basics/prompt-design-101.md)** 🚧 *TODO* - Techniques de base pour créer des prompts efficaces
 - **[Best Practices](basics/best-practices.md)** 🚧 *TODO* - Bonnes pratiques et pièges à éviter
 
