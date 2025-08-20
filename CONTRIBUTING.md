@@ -230,9 +230,7 @@ R : Objectif 48h ouvrées pour un premier feedback.
 
 ## 🎉 Merci !
 
-Chaque contribution, même petite, améliore ce guide pour toute la communauté Astek et au-delà. 
-
-**Ensemble, élevons le niveau du Context Engineering en France ! 🇫🇷**
+Chaque contribution, même petite, améliore ce guide pour toute la communauté Astek et au-delà.
 
 ---
 
