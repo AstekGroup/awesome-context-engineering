@@ -130,6 +130,9 @@ Techniques de débogage assisté par IA
 - **[Prompt Engineering Institute](https://promptengineering.institute/)** - Recherche académique
 - **[OpenAI Research](https://openai.com/research/)** - Publications officielles OpenAI
 
+### Pour aller plus loin (approches avancées)
+- **[Context Engineering by David Kimai](https://github.com/davidkimai/Context-Engineering)** - Exploration théorique approfondie du Context Engineering comme "champ continu" plutôt que comme instructions statiques. Approche interdisciplinaire avec des concepts avancés comme la théorie des champs neuronaux et les systèmes dynamiques. Idéal pour les chercheurs et praticiens voulant dépasser les techniques traditionnelles.
+
 **Pourquoi cette section ?** Éviter la duplication et diriger vers les excellentes ressources existantes.
 
 ---
