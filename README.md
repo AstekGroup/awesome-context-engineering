@@ -127,8 +127,8 @@ Techniques de débogage assisté par IA
 
 ### Research et Academic Papers
 - **[A Survey of Context Engineering for LLMs](https://arxiv.org/pdf/2507.13334)** (ArXiv 2024) - Étude de référence qui synthétise les techniques avancées de manipulation de contexte, l'optimisation des fenêtres contextuelles, et les approches de récupération augmentée. Indispensable pour comprendre l'état de l'art académique.
-- **[Prompt Engineering Institute](https://promptengineering.institute/)** - Recherche académique
 - **[OpenAI Research](https://openai.com/research/)** - Publications officielles OpenAI
+- **[Anthropic Research](https://www.anthropic.com/research)** - Recherches sur l'alignement et les techniques d'interaction avec les LLMs
 
 ### Pour aller plus loin (approches avancées)
 - **[Context Engineering by David Kimai](https://github.com/davidkimai/Context-Engineering)** - Exploration théorique approfondie du Context Engineering comme "champ continu" plutôt que comme instructions statiques. Approche interdisciplinaire avec des concepts avancés comme la théorie des champs neuronaux et les systèmes dynamiques. Idéal pour les chercheurs et praticiens voulant dépasser les techniques traditionnelles.
