@@ -146,4 +146,12 @@ Techniques de débogage assisté par IA
 
 ---
 
+## 🤝 Contribuer
+
+Ce projet est une initiative **Astek** ouverte aux contributions ! 
+
+- 📖 **[Guide de contribution](CONTRIBUTING.md)** - Processus, standards de qualité, et bonnes pratiques
+- 🎯 **Contributions recherchées** : Templates, exemples concrets, techniques d'optimisation, études de cas
+- 👥 **Communauté Astek** : Partageons nos expertises en Context Engineering
+
 **⭐ N'hésitez pas à contribuer et donner une étoile !**
