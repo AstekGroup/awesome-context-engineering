@@ -48,6 +48,49 @@ Les meilleurs contextes sont :
 - Testables
 - Partageables
 
+## 🧩 Les composants du contexte
+
+> *"Le contexte est un système, pas une simple chaîne de caractères"* — Phil Schmid
+
+Le Context Engineering va bien au-delà du prompt traditionnel. Il orchestre **6 composants essentiels** :
+
+### 📋 **Instructions / System Prompt**
+- Définissent le rôle et comportement de l'IA
+- Spécifient les règles et contraintes générales
+- Établissent le ton et style de communication
+
+### 💬 **User Prompt**
+- La requête spécifique de l'utilisateur
+- Le déclencheur de l'interaction
+- Peut contenir des exemples et du contexte immédiat
+
+### 🧠 **State / History (Mémoire court-terme)**
+- Historique de conversation actuelle
+- Contexte de session temporaire
+- Suivi des actions précédentes dans le workflow
+
+### 📚 **Long-Term Memory**
+- Connaissances persistantes sur l'utilisateur/projet
+- Préférences et patterns d'usage
+- Contexte métier spécialisé
+
+### 🔍 **Retrieved Information (RAG)**
+- Informations externes récupérées dynamiquement
+- Documentation technique, bases de connaissances
+- Données contextuelles en temps réel
+
+### 🛠️ **Available Tools**
+- Outils et fonctions accessibles à l'IA
+- APIs, calculateurs, générateurs de code
+- Capacités d'action sur l'environnement
+
+### 📄 **Structured Output**
+- Format de réponse attendu
+- Schémas JSON, templates, contraintes de structure
+- Cohérence et prévisibilité des résultats
+
+> 💡 **Insight clé** : *"Les échecs d'agents ne sont pas seulement des échecs de modèle ; ce sont des échecs de contexte"*
+
 ## 💡 Exemple concret
 
 ```markdown
