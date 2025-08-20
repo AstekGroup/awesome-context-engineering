@@ -6,10 +6,10 @@ Le **Context Engineering** est l'art de structurer et d'optimiser les informatio
 
 ## 🚀 Démarrage rapide
 
-1. **Découvrir** → [Qu'est-ce que le Context Engineering ?](basics/what-is-context-engineering.md)
-2. **Appliquer** → [Templates prêts à l'emploi](templates/)
-3. **S'inspirer** → [Exemples concrets](examples/)
-4. **Progresser** → [Frameworks avancés](frameworks/)
+1. **Découvrir** → [Qu'est-ce que le Context Engineering ?](basics/what-is-context-engineering.md) 🚧 *TODO*
+2. **Appliquer** → [Templates prêts à l'emploi](templates/) 🚧 *TODO*
+3. **S'inspirer** → [Exemples concrets](examples/) 🚧 *TODO*
+4. **Progresser** → [Frameworks avancés](frameworks/) 🚧 *TODO*
 
 ---
 
@@ -17,9 +17,9 @@ Le **Context Engineering** est l'art de structurer et d'optimiser les informatio
 
 > *Comprendre les concepts essentiels du Context Engineering*
 
-- **[What is Context Engineering](basics/what-is-context-engineering.md)** - Introduction aux concepts clés
-- **[Prompt Design 101](basics/prompt-design-101.md)** - Techniques de base pour créer des prompts efficaces
-- **[Best Practices](basics/best-practices.md)** - Bonnes pratiques et pièges à éviter
+- **[What is Context Engineering](basics/what-is-context-engineering.md)** 🚧 *TODO* - Introduction aux concepts clés
+- **[Prompt Design 101](basics/prompt-design-101.md)** 🚧 *TODO* - Techniques de base pour créer des prompts efficaces
+- **[Best Practices](basics/best-practices.md)** 🚧 *TODO* - Bonnes pratiques et pièges à éviter
 
 **Pourquoi cette section ?** Maîtriser les fondamentaux transversaux qui s'appliquent à tous les agents IA.
 
@@ -32,22 +32,22 @@ Le **Context Engineering** est l'art de structurer et d'optimiser les informatio
 ### [Claude](agents/claude/) 🎯
 - **Documentation officielle** → [docs.anthropic.com](https://docs.anthropic.com/en/docs/intro-to-claude)
 - **Claude Code** → [docs.anthropic.com/claude-code](https://docs.anthropic.com/en/docs/claude-code)
-- **[Context Optimization Patterns](agents/claude/prompt-templates/)** - Patterns spécifiques pour Claude
+- **[Context Optimization Patterns](agents/claude/prompt-templates/)** 🚧 *TODO* - Patterns spécifiques pour Claude
 
 ### [Cursor](agents/cursor/) ⚡
 - **Documentation officielle** → [docs.cursor.com](https://docs.cursor.com/)
-- **[Advanced Rules Patterns](agents/cursor/rules-patterns/)** - Patterns de règles avancés
-- **[Context Engineering Tips](agents/cursor/workflow-tips/)** - Optimisation des workflows
+- **[Advanced Rules Patterns](agents/cursor/rules-patterns/)** 🚧 *TODO* - Patterns de règles avancés
+- **[Context Engineering Tips](agents/cursor/workflow-tips/)** 🚧 *TODO* - Optimisation des workflows
 
 ### [GitHub Copilot](agents/github-copilot/) 🔧
 - **Documentation officielle** → [docs.github.com/copilot](https://docs.github.com/en/copilot)
-- **[Context Files Optimization](agents/github-copilot/context-files/)** - Techniques avancées de contexte
+- **[Context Files Optimization](agents/github-copilot/context-files/)** 🚧 *TODO* - Techniques avancées de contexte
 
-### [Gemini](agents/gemini/) 🌟
-- **Documentation officielle** → [ai.google.dev/gemini-api/docs](https://ai.google.dev/gemini-api/docs)
-- **[Project Context Strategies](agents/gemini/project-context/)** - Gestion de contexte pour projets complexes
+### [Gemini CLI](agents/gemini/) 🌟
+- **Documentation officielle** → [ai.google.dev/gemini-api/docs/cli](https://ai.google.dev/gemini-api/docs/cli)
+- **[Project Context Strategies](agents/gemini/project-context/)** 🚧 *TODO* - Gestion de contexte pour projets complexes
 
-### [Comparaison rapide](agents/quick-comparison.md) 📊
+### [Comparaison rapide](agents/quick-comparison.md) 📊 🚧 *TODO*
 Tableau comparatif des forces et cas d'usage de chaque agent
 
 **Pourquoi cette section ?** Se concentrer sur les techniques d'optimisation spécifiques, pas sur l'apprentissage de base.
@@ -60,14 +60,14 @@ Tableau comparatif des forces et cas d'usage de chaque agent
 
 ### [SuperClaude](frameworks/superclaude/) 🌟
 - **Framework officiel** → [SuperClaude Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)
-- **[Quick Examples](frameworks/superclaude/examples/)** - Cas d'usage pratiques
-- **[Integration Patterns](frameworks/superclaude/integration-patterns.md)** - Patterns d'intégration avancés
+- **[Quick Examples](frameworks/superclaude/examples/)** 🚧 *TODO* - Cas d'usage pratiques
+- **[Integration Patterns](frameworks/superclaude/integration-patterns.md)** 🚧 *TODO* - Patterns d'intégration avancés
 
 ### [Cursor Rules](frameworks/cursor-rules/) ⚙️
-- **[Advanced Patterns](frameworks/cursor-rules/basic-patterns.md)** - Patterns éprouvés
-- **[Rule Templates](frameworks/cursor-rules/templates/)** - Templates ready-to-use
+- **[Advanced Patterns](frameworks/cursor-rules/basic-patterns.md)** 🚧 *TODO* - Patterns éprouvés
+- **[Rule Templates](frameworks/cursor-rules/templates/)** 🚧 *TODO* - Templates ready-to-use
 
-### [Vibe Coding Guide](frameworks/vibe-coding-guide.md) 🎨
+### [Vibe Coding Guide](frameworks/vibe-coding-guide.md) 🎨 🚧 *TODO*
 Méthodologie de développement collaboratif humain-IA
 
 **Pourquoi cette section ?** Contenu original et patterns d'usage avancés non documentés ailleurs.
@@ -78,9 +78,9 @@ Méthodologie de développement collaboratif humain-IA
 
 > *Templates battle-tested pour démarrer rapidement*
 
-- **[Project Context](templates/project-context.md)** - Décrire efficacement votre projet
-- **[Codebase Summary](templates/codebase-summary.md)** - Synthétiser votre architecture
-- **[Prompt Checklists](templates/prompt-checklists.md)** - Optimiser vos interactions
+- **[Project Context](templates/project-context.md)** 🚧 *TODO* - Décrire efficacement votre projet
+- **[Codebase Summary](templates/codebase-summary.md)** 🚧 *TODO* - Synthétiser votre architecture
+- **[Prompt Checklists](templates/prompt-checklists.md)** 🚧 *TODO* - Optimiser vos interactions
 
 ---
 
@@ -88,13 +88,13 @@ Méthodologie de développement collaboratif humain-IA
 
 > *Exemples réels d'application du Context Engineering*
 
-### [Web Development](examples/web-development/) 🌐
+### [Web Development](examples/web-development/) 🌐 🚧 *TODO*
 Cas pratiques : React, Vue, API integration...
 
-### [API Development](examples/api-development/) 🔗
+### [API Development](examples/api-development/) 🔗 🚧 *TODO*
 Exemples : REST design, GraphQL, microservices...
 
-### [Debugging](examples/debugging/) 🔍
+### [Debugging](examples/debugging/) 🔍 🚧 *TODO*
 Techniques de débogage assisté par IA
 
 ---
