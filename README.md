@@ -31,40 +31,42 @@ Le **Context Engineering** est l'art de structurer et d'optimiser les informatio
 
 > *Focus sur l'optimisation spécifique à chaque outil de développement collaboratif*
 
-### [Claude](agents/claude/) 🎯
-- **Documentation officielle** → [docs.anthropic.com](https://docs.anthropic.com/en/docs/intro-to-claude)
-- **Claude Code** → [docs.anthropic.com/claude-code](https://docs.anthropic.com/en/docs/claude-code)
-- **[Context Optimization Patterns](agents/claude/prompt-templates/)** 🚧 *TODO* - Patterns spécifiques pour Claude
+### [Claude Code](agents/claude/) 🎯
+- **Documentation officielle** → [docs.anthropic.com/claude-code](https://docs.anthropic.com/en/docs/claude-code)
+- **[Context Engineering Guide](agents/claude/)** - Guide complet CLAUDE.md, outils intégrés, découvertes communauté
+- **[Templates prêts à l'emploi](agents/claude/templates/)** 🚧 *TODO* - CLAUDE.md et hooks prêts à l'emploi
 
 ### [Cursor](agents/cursor/) ⚡
 - **Documentation officielle** → [docs.cursor.com](https://docs.cursor.com/)
-- **[Advanced Rules Patterns](agents/cursor/rules-patterns/)** 🚧 *TODO* - Patterns de règles avancés
-- **[Context Engineering Tips](agents/cursor/workflow-tips/)** 🚧 *TODO* - Optimisation des workflows
+- **[Context Engineering Guide](agents/cursor/)** - Rules hiérarchiques, modes contexte, memories et découvertes
+- **[Templates prêts à l'emploi](agents/cursor/templates/)** 🚧 *TODO* - Rules modulaires et workflows
 
 ### [GitHub Copilot](agents/github-copilot/) 🔧
 - **Documentation officielle** → [docs.github.com/copilot](https://docs.github.com/en/copilot)
-- **[Context Files Optimization](agents/github-copilot/context-files/)** 🚧 *TODO* - Techniques avancées de contexte
+- **[Context Engineering Guide](agents/github-copilot/)** - Instructions repository, policies org, découvertes communauté
+- **[Templates prêts à l'emploi](agents/github-copilot/templates/)** 🚧 *TODO* - Configuration enterprise et migration
 
 ### [Gemini CLI](agents/gemini/) 🌟
 - **Documentation officielle** → [ai.google.dev/gemini-api/docs/cli](https://ai.google.dev/gemini-api/docs/cli)
-- **[Project Context Strategies](agents/gemini/project-context/)** 🚧 *TODO* - Gestion de contexte pour projets complexes
+- **[Context Engineering Guide](agents/gemini/)** - GEMINI.md hiérarchique, ReAct mode, MCP et customisation open-source
+- **[Templates prêts à l'emploi](agents/gemini/templates/)** 🚧 *TODO* - Configuration serveurs et workflows Plan/Act
 
 ### [Windsurf](agents/windsurf/) 🏄‍♂️
-- **Documentation officielle** → [codeium.com/windsurf](https://codeium.com/windsurf)
-- **[Flow Optimization](agents/windsurf/flow-optimization/)** 🚧 *TODO* - Optimisation des workflows de développement
-- **[Context Strategies](agents/windsurf/context-strategies/)** 🚧 *TODO* - Techniques de contextualisation avancées
+- **Documentation officielle** → [docs.windsurf.com](https://docs.windsurf.com/)
+- **[Context Engineering Guide](agents/windsurf/)** - Memories automatiques, rules conditionnelles 4 modes, agent Cascade
+- **[Templates prêts à l'emploi](agents/windsurf/templates/)** 🚧 *TODO* - Rules par activation et memories optimisées
 
 ### [KiloCode](agents/kilocode/) ⚡
-- **Documentation officielle** → [kilocode.dev](https://kilocode.dev)
-- **[Project Setup Patterns](agents/kilocode/project-patterns/)** 🚧 *TODO* - Patterns d'initialisation et configuration
-- **[Context Engineering Tips](agents/kilocode/context-tips/)** 🚧 *TODO* - Bonnes pratiques de contextualisation
+- **Documentation officielle** → [kilocode.ai](https://kilocode.ai/)
+- **[Context Engineering Guide](agents/kilocode/)** - Rules par mode, support legacy, templates modulaires UI
+- **[Templates prêts à l'emploi](agents/kilocode/templates/)** 🚧 *TODO* - Rules prêtes par technologie et workflows
 
 ### [Kiro](agents/kiro/) 🤖
-- **Documentation officielle** → [kiro.ai](https://kiro.ai)
-- **[Advanced Workflows](agents/kiro/workflows/)** 🚧 *TODO* - Workflows de développement optimisés
-- **[Context Management](agents/kiro/context-management/)** 🚧 *TODO* - Gestion intelligente du contexte
+- **Documentation officielle** → [kiro.dev](https://kiro.dev/)
+- **[Context Engineering Guide](agents/kiro/)** - Steering files modulaires, Agent Hooks, développement spec-driven
+- **[Templates prêts à l'emploi](agents/kiro/templates/)** 🚧 *TODO* - Specs et hooks pour projets AWS
 
-### [Comparaison rapide](agents/quick-comparison.md) 📊 🚧 *TODO*
+### [Comparaison rapide](agents/quick-comparison.md) 📊
 Tableau comparatif des forces et cas d'usage de chaque agent
 
 **Pourquoi cette section ?** Se concentrer sur les techniques d'optimisation spécifiques, pas sur l'apprentissage de base.
