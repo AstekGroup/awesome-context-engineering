@@ -54,6 +54,48 @@ Les meilleurs contextes sont :
 
 Le Context Engineering va bien au-delà du prompt traditionnel. Il orchestre **6 composants essentiels** :
 
+```mermaid
+graph TB
+    User["👤<br/><b>UTILISATEUR</b>"] --> UserPrompt["💬<br/><b>USER PROMPT</b><br/><br/>Requête spécifique"]
+    
+    subgraph Context["🧩 CONTEXTE ORCHESTRÉ"]
+        SystemPrompt["📋<br/><b>INSTRUCTIONS</b><br/><b>System Prompt</b><br/><br/>→ Rôle & comportement<br/>→ Règles & contraintes<br/>→ Ton & style"]
+        
+        Memory["🧠<br/><b>STATE/HISTORY</b><br/><b>Mémoire court-terme</b><br/><br/>→ Historique conversation<br/>→ Session temporaire<br/>→ Actions précédentes"]
+        
+        LongTerm["📚<br/><b>LONG-TERM MEMORY</b><br/><b>Connaissances persistantes</b><br/><br/>→ Préférences utilisateur<br/>→ Patterns d'usage<br/>→ Contexte métier"]
+        
+        RAG["🔍<br/><b>RETRIEVED INFO</b><br/><b>RAG & Recherche</b><br/><br/>→ Documentation technique<br/>→ Bases de connaissances<br/>→ Données temps réel"]
+        
+        Tools["🛠️<br/><b>AVAILABLE TOOLS</b><br/><b>Capacités d'action</b><br/><br/>→ APIs & fonctions<br/>→ Calculateurs<br/>→ Actions environnement"]
+        
+        OutputFormat["📄<br/><b>STRUCTURED OUTPUT</b><br/><b>Format de réponse</b><br/><br/>→ Schémas JSON<br/>→ Templates<br/>→ Contraintes structure"]
+    end
+    
+    UserPrompt --> LLM["🤖<br/><b>LARGE LANGUAGE</b><br/><b>MODEL</b>"]
+    SystemPrompt --> LLM
+    Memory --> LLM
+    LongTerm --> LLM
+    RAG --> LLM
+    Tools --> LLM
+    OutputFormat --> LLM
+    
+    LLM --> Response["💎<br/><b>RÉPONSE OPTIMISÉE</b><br/><br/>→ Précise & pertinente<br/>→ Formatée selon contraintes<br/>→ Cohérente avec contexte"]
+    
+    Response --> User
+    Response --> Memory
+    
+    classDef userNode fill:#ffffff,stroke:#0d47a1,stroke-width:3px,color:#0d47a1
+    classDef contextNode fill:#ffffff,stroke:#6a1b9a,stroke-width:2px,color:#4a148c
+    classDef llmNode fill:#fff8e1,stroke:#e65100,stroke-width:4px,color:#bf360c
+    classDef responseNode fill:#ffffff,stroke:#2e7d32,stroke-width:3px,color:#1b5e20
+    
+    class User,UserPrompt userNode
+    class SystemPrompt,Memory,LongTerm,RAG,Tools,OutputFormat contextNode
+    class LLM llmNode
+    class Response responseNode
+```
+
 ### 📋 **Instructions / System Prompt**
 - Définissent le rôle et comportement de l'IA
 - Spécifient les règles et contraintes générales
