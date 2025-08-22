@@ -2,7 +2,20 @@
 
 > Guide complet pour maîtriser le Context Engineering avec GitHub Copilot et Copilot Chat
 
-GitHub Copilot de Microsoft est l'assistant de programmation alimenté par des modèles Codex/GPT. Il se distingue par son intégration native GitHub, ses instructions personnalisées et son système de règles par repository.
+GitHub Copilot de Microsoft est l'assistant de programmation alimenté par défaut avec des modèles Codex/GPT. Il se distingue par son intégration native à GitHub, ses instructions personnalisées et son système de règles par repository.
+Pricipaux avantages : 
+* Le nombre de requêtes illimité sans surcoût avec le modèle de base, quel que soit le nombre de tokens dépensés.
+* Le choix de l'éditeur : Copilot s'intègre de mieux en mieux dans d'autres éditeurs que VS Code, tel que les IDE JetBrains, Neovim, Xcode, Eclipse
+
+
+## La philosophie Copilot
+
+GitHub Copilot a été développé dans le but d'assister le développeur dans ses tâches. Ainsi, même s'il est possible de créer des applications entières en Vibe Coding, il excelle dans l'assistance au développeur. C'est pourquoi GitHub recommande de suivre le principe des 4 'S' lors de la constitution des prompts :
+* Single : Concentrez toujours votre prompt sur une tâche ou une question unique et bien définie. Cette clarté est essentielle pour obtenir des réponses précises et utiles de Copilot.
+* Specific : Assurez-vous que vos instructions soient explicites et détaillées. La spécificité permet d’obtenir des suggestions de code plus pertinentes et adaptées.
+* Short : Tout en étant spécifique, gardez vos prompts concis et directs. Cet équilibre garantit la clarté sans surcharger Copilot ni compliquer l’interaction.
+* Surround : Utilisez des noms de fichiers descriptifs et gardez les fichiers liés ouverts. Cela offre à Copilot un contexte riche, pour des suggestions de code plus personnalisées.
+
 
 ## 🚀 Démarrage rapide
 
