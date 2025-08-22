@@ -6,6 +6,26 @@ Le **Context Engineering** est l'art de structurer et d'optimiser les informatio
 
 > 📚 **Recherche actuelle** : Les techniques de Context Engineering évoluent rapidement, allant bien au-delà du prompt engineering traditionnel pour inclure l'optimisation des fenêtres contextuelles, la gestion intelligente de la mémoire, et les approches de récupération augmentée ([Survey 2025](https://arxiv.org/pdf/2507.13334)).
 
+---
+
+## ⭐ Highlight
+
+> **Focus du moment** : Technologie ou framework mis en avant par la communauté Astek
+
+### 🏗️ AGENTS.md - Le README pour l'IA
+
+**Format ouvert standardisé** pour fournir des instructions spécifiques aux agents IA dans vos projets.
+
+- 🌐 **Site officiel** → [agents.md](https://agents.md)
+- 🎯 **Principe** : Un "README pour les agents" - instructions dédiées et prévisibles pour l'IA
+- ⚡ **Avantages** : Compatible avec tous les outils (Cursor, Gemini CLI, Claude, Aider, etc.), format flexible, peut être imbriqué dans les monorepos
+
+**Pourquoi on le met en avant ?** AGENTS.md représente l'avenir de l'interaction standardisée avec l'IA. Au lieu de disperser les instructions dans différents fichiers selon l'outil, cette approche agent-agnostique garantit la portabilité et la cohérence de vos pratiques. Un investissement durable pour tous vos projets.
+
+**🚀 Adopter maintenant** : Créez un fichier `AGENTS.md` dans votre prochain projet et découvrez la différence !
+
+---
+
 ## 🚀 Démarrage rapide
 
 1. **Découvrir** → [Qu'est-ce que le Context Engineering ?](basics/what-is-context-engineering.md)
@@ -81,13 +101,15 @@ Tableau comparatif des forces et cas d'usage de chaque agent
 
 > *Méthodologies universelles compatibles avec tous les agents IA*
 
+#### [AGENTS.md](https://agents.md) ⭐
+- **Format officiel** → [agents.md](https://agents.md)
+- **Principe** : Un "README pour les agents" - instructions dédiées et prévisibles pour l'IA
+- **Avantages** : Compatible avec tous les outils, format flexible, support monorepo
+
 #### [BMAD-METHOD](frameworks/bmad-method/) 🔥
 - **Framework officiel** → [BMAD-METHOD Repository](https://github.com/bmad-code-org/BMAD-METHOD)
 - **[Agentic Planning Strategies](frameworks/bmad-method/agentic-planning.md)** 🚧 *TODO* - Planification collaborative multi-agents
 - **[Context-Engineered Development](frameworks/bmad-method/context-development.md)** 🚧 *TODO* - Développement avec contexte enrichi
-
-#### [Vibe Coding Guide](frameworks/vibe-coding-guide.md) 🎨 🚧 *TODO*
-Méthodologie de développement collaboratif humain-IA
 
 ### 🤖 Frameworks Spécifiques aux Agents
 
@@ -97,10 +119,6 @@ Méthodologie de développement collaboratif humain-IA
 - **Framework officiel** → [SuperClaude Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)
 - **[Quick Examples](frameworks/superclaude/examples/)** 🚧 *TODO* - Cas d'usage pratiques
 - **[Integration Patterns](frameworks/superclaude/integration-patterns.md)** 🚧 *TODO* - Patterns d'intégration avancés
-
-#### [Cursor Rules](frameworks/cursor-rules/) ⚙️
-- **[Advanced Patterns](frameworks/cursor-rules/basic-patterns.md)** 🚧 *TODO* - Patterns éprouvés
-- **[Rule Templates](frameworks/cursor-rules/templates/)** 🚧 *TODO* - Templates ready-to-use
 
 **Pourquoi cette section ?** Contenu original et patterns d'usage avancés non documentés ailleurs.
 
