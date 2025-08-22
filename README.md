@@ -10,7 +10,8 @@ Le **Context Engineering** est l'art de structurer et d'optimiser les informatio
 
 ## ⭐ Highlight
 
-> **Focus du moment** : Technologie ou framework mis en avant par la communauté Astek
+> **Focus du moment** : Technologie ou framework mis en avant par la communauté Astek  
+> *Dernière mise à jour : 22 août 2025*
 
 ### 🏗️ AGENTS.md - Le README pour l'IA
 
