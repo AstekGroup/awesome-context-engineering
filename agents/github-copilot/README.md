@@ -144,18 +144,16 @@ Cette suggestion a été omise pour des raisons de politique...
 
 ### 6. Copilot Chat et mode conversationnel 💬
 
-**Prompt système intégré :**
-```markdown
-# Système interne (non modifiable)
-You are an AI programming assistant...
-- Provide helpful and accurate code suggestions
-- Follow the user's coding style and preferences  
-- Respect repository instructions and organization policies
-```
+**Modes de chat natifs et personnalisés :**
+- GitHub Copilot propose 3 modes de chat prédéfinis
+- Possibilité de créer des modes personnalisés avec des instructions spécifiques
+- Configuration via fichiers `.chatmode.md` dans `.github/chatmodes/`
+
+**Découvrez comment optimiser vos interactions :** → **[Custom Chats](./Custom%20Chats.md)** 🎯
 
 **Contexte automatique en Chat :**
 - Fichiers ouverts dans l'éditeur
-- Sélection de code active
+- Sélection de code active  
 - Messages d'erreur du terminal
 - Instructions repository + utilisateur
 
