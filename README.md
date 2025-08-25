@@ -116,12 +116,49 @@ Tableau comparatif des forces et cas d'usage de chaque agent
 
 > *Optimisations dédiées à des agents particuliers*
 
-#### [SuperClaude](frameworks/superclaude/) 🌟
+#### [SuperClaude](frameworks/superclaude/) 🌟 - Claude Code
 - **Framework officiel** → [SuperClaude Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)
+- **Principe** : Système de commandes avec personas spécialisés, orchestration MCP, et modes avancés
 - **[Quick Examples](frameworks/superclaude/examples/)** 🚧 *TODO* - Cas d'usage pratiques
 - **[Integration Patterns](frameworks/superclaude/integration-patterns.md)** 🚧 *TODO* - Patterns d'intégration avancés
 
-**Pourquoi cette section ?** Contenu original et patterns d'usage avancés non documentés ailleurs.
+#### [Cursor Rules](frameworks/cursor-rules/) 🎯 - Cursor
+- **Principe** : Système de règles multi-niveaux avec activation conditionnelle
+- **Spécificités** : User Rules globales, Project Rules, mode Standard/Max
+- **[Rules Templates](frameworks/cursor-rules/templates/)** 🚧 *TODO* - Templates par stack technique
+- **[Workflow Patterns](frameworks/cursor-rules/workflow-patterns.md)** 🚧 *TODO* - Patterns de workflow optimisés
+
+#### [GitHub Repository Instructions](frameworks/github-copilot/) 🔧 - GitHub Copilot
+- **Principe** : Instructions au niveau organisation et repository avec frontmatter conditionnel
+- **Spécificités** : Custom Instructions, Enterprise policies, intégration native GitHub
+- **[Organization Policies](frameworks/github-copilot/organization-policies.md)** 🚧 *TODO* - Politiques entreprise
+- **[Repository Patterns](frameworks/github-copilot/repository-patterns.md)** 🚧 *TODO* - Patterns repository
+
+#### [GEMINI.md Hierarchical](frameworks/gemini/) 🌟 - Gemini CLI
+- **Principe** : Système hiérarchique avec MCP servers configurables et mode ReAct
+- **Spécificités** : Open source, quotas généreux, customisation avancée
+- **[MCP Configuration](frameworks/gemini/mcp-configuration.md)** 🚧 *TODO* - Configuration serveurs MCP
+- **[ReAct Patterns](frameworks/gemini/react-patterns.md)** 🚧 *TODO* - Patterns de raisonnement structuré
+
+#### [Windsurf Memories](frameworks/windsurf/) 🏄‍♂️ - Windsurf
+- **Principe** : Memories automatiques avec 4 modes d'activation des règles
+- **Spécificités** : IA qui se souvient, évolution communautaire, Cascade agent
+- **[Memory Management](frameworks/windsurf/memory-management.md)** 🚧 *TODO* - Gestion des memories
+- **[Rule Activation](frameworks/windsurf/rule-activation.md)** 🚧 *TODO* - Modes d'activation intelligente
+
+#### [KiloCode Rules-by-Mode](frameworks/kilocode/) ⚡ - KiloCode
+- **Principe** : Règles modulaires par mode avec support legacy exceptionnel
+- **Spécificités** : Open source, UI intégrée, migration facilitée entre agents
+- **[Mode Configuration](frameworks/kilocode/mode-configuration.md)** 🚧 *TODO* - Configuration par mode
+- **[Legacy Migration](frameworks/kilocode/legacy-migration.md)** 🚧 *TODO* - Migration depuis autres agents
+
+#### [Kiro Steering Files](frameworks/kiro/) 🤖 - Kiro (AWS)
+- **Principe** : Développement spec-driven avec Steering Files modulaires et Agent Hooks
+- **Spécificités** : Méthodologie enterprise, intégration AWS, automation intelligente
+- **[Spec-Driven Development](frameworks/kiro/spec-driven-development.md)** 🚧 *TODO* - Méthodologie specs
+- **[Agent Hooks](frameworks/kiro/agent-hooks.md)** 🚧 *TODO* - Automatisation par événements
+
+**Pourquoi cette section ?** Chaque agent a développé ses propres patterns d'optimisation. Cette section capture les frameworks émergents spécialisés.
 
 ---
 
