@@ -96,6 +96,13 @@ Claude: [Crée TodoList] → Planifie → Exécute étape par étape → Valide
 - Intégrations outils (Jira, GitHub)
 - APIs et bases de données
 
+### 6. Intégration avec frameworks externes 🔗
+
+**Frameworks compatibles Claude Code :**
+- **[CCPM](../../frameworks/ccpm/)** - Gestion de projet spec-driven avec GitHub Issues et git worktrees
+- **[SuperClaude](../../frameworks/superclaude/)** - Framework avancé pour Claude Code
+- **Support MCP natif** - Extensions via Model Context Protocol
+
 ---
 
 ## 🔍 Découvertes de la communauté
@@ -323,6 +330,7 @@ Claude: [Mode approfondi] → Profiling → Analyse → Recommandations
 ### Intégrations
 - **[SuperClaude Framework](../../frameworks/superclaude/)** 🚧 *TODO* - Framework avancé pour Claude
 - **[VS Code Extension](https://marketplace.visualstudio.com/items?itemName=Anthropic.claude)** - Extension officielle
+- **[CCPM Framework](../../frameworks/ccpm/)** ⭐ - Gestion de projet spec-driven avec GitHub Issues
 
 ---
 
