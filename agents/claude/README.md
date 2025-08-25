@@ -96,15 +96,12 @@ Claude: [Crée TodoList] → Planifie → Exécute étape par étape → Valide
 - Intégrations outils (Jira, GitHub)
 - APIs et bases de données
 
-### 6. CCPM - Gestion de projet native ⭐
+### 6. Intégration avec frameworks externes 🔗
 
-**Framework CCPM (Claude Code Project Management) :** Système révolutionnaire de développement spec-driven
-- **GitHub Issues** comme source unique de vérité
-- **Git worktrees** pour développement parallèle multi-agents
-- **Philosophie "No Vibe Coding"** : traçabilité complète du besoin au code
-- **Métriques prouvées** : -89% context switching, 3x vitesse de livraison
-
-→ **[Découvrir CCPM](./ccpm/)** 🚀
+**Frameworks compatibles Claude Code :**
+- **[CCPM](../../frameworks/ccpm/)** - Gestion de projet spec-driven avec GitHub Issues et git worktrees
+- **[SuperClaude](../../frameworks/superclaude/)** - Framework avancé pour Claude Code
+- **Support MCP natif** - Extensions via Model Context Protocol
 
 ---
 
@@ -331,9 +328,9 @@ Claude: [Mode approfondi] → Profiling → Analyse → Recommandations
 - **[Community Templates](templates/)** 🚧 *TODO* - Templates partagés
 
 ### Intégrations
-- **[CCPM - Claude Code Project Management](./ccpm/)** ⭐ - Framework de gestion de projet avec GitHub Issues et git worktrees
 - **[SuperClaude Framework](../../frameworks/superclaude/)** 🚧 *TODO* - Framework avancé pour Claude
 - **[VS Code Extension](https://marketplace.visualstudio.com/items?itemName=Anthropic.claude)** - Extension officielle
+- **[CCPM Framework](../../frameworks/ccpm/)** ⭐ - Gestion de projet spec-driven avec GitHub Issues
 
 ---
 

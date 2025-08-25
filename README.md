@@ -121,11 +121,11 @@ Tableau comparatif des forces et cas d'usage de chaque agent
 - **[Quick Examples](frameworks/superclaude/examples/)** 🚧 *TODO* - Cas d'usage pratiques
 - **[Integration Patterns](frameworks/superclaude/integration-patterns.md)** 🚧 *TODO* - Patterns d'intégration avancés
 
-#### [CCPM - Claude Code Project Management](agents/claude/ccpm/) ⭐
+#### [CCPM - Claude Code Project Management](frameworks/ccpm/) ⭐
 - **Framework officiel** → [CCPM Repository](https://github.com/automazeio/ccpm)
-- **[Documentation complète](agents/claude/ccpm/)** - Gestion de projet avec GitHub Issues et git worktrees
-- **[Exemples pratiques](agents/claude/ccpm/examples/)** - E-commerce feature et résolution bug critique
+- **[Guide rapide](frameworks/ccpm/)** - Framework spec-driven avec GitHub Issues et git worktrees
 - **Métriques prouvées** : -89% context switching, 3x vitesse de livraison
+- **Compatible** : Claude Code uniquement
 
 **Pourquoi cette section ?** Contenu original et patterns d'usage avancés non documentés ailleurs.
 
