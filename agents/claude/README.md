@@ -323,6 +323,7 @@ Claude: [Mode approfondi] → Profiling → Analyse → Recommandations
 - **[Anthropic Research](https://www.anthropic.com/research)** - Recherches sur les LLMs
 
 ### Outils communautaires  
+- **[ClaudeLog.com](https://claudelog.com/)** ⭐ - Documentation communautaire et insights pratiques basés sur l'expérience terrain
 - **[RuleSync](https://github.com/rulesync)** - Migration règles entre agents
 - **[Claude Code Examples](https://github.com/anthropic/claude-code-examples)** 🚧 *TODO* - Exemples officiels
 - **[Community Templates](templates/)** 🚧 *TODO* - Templates partagés
