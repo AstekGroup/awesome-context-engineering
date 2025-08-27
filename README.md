@@ -190,7 +190,11 @@ Techniques de débogage assisté par IA
 
 ## 🤝 Contribuer
 
-Ce projet est une initiative **Astek** ouverte aux contributions ! 
+<div align="center">
+  <img src="assets/logos/LOGO HOR COULEUR.png" alt="Astek" width="200"/>
+</div>
+
+Ce projet est une initiative **[Astek](https://astekgroup.fr/)** ouverte aux contributions ! 
 
 - 📖 **[Guide de contribution](CONTRIBUTING.md)** - Processus, standards de qualité, et bonnes pratiques
 - 🎯 **Contributions recherchées** : Templates, exemples concrets, techniques d'optimisation, études de cas
