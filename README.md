@@ -87,6 +87,11 @@ Le **Context Engineering** est l'art de structurer et d'optimiser les informatio
 - **[Context Engineering Guide](agents/kiro/)** - Steering files modulaires, Agent Hooks, développement spec-driven
 - **[Templates prêts à l'emploi](agents/kiro/templates/)** 🚧 *TODO* - Specs et hooks pour projets AWS
 
+### [Warp Code](agents/warp-code/) 🎼
+- **Documentation officielle** → [docs.warp.dev](https://docs.warp.dev/)
+- **[Context Engineering Guide](agents/warp-code/)** - Terminal contextuel intelligent, vibe coding, workflows automatisés
+- **[Templates prêts à l'emploi](agents/warp-code/templates/)** 🚧 *TODO* - Profils vibe et workflows par stack
+
 ### [Comparaison rapide](agents/quick-comparison.md) 📊
 Tableau comparatif des forces et cas d'usage de chaque agent
 
