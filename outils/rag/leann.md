@@ -17,7 +17,7 @@ uv tool install leann-core --with leann
 
 # Ou depuis le repository
 git clone https://github.com/yichuan-w/LEANN.git
-cd leann && uv venv && source .venv/bin/activate && uv pip install leann
+cd LEANN && uv venv && source .venv/bin/activate && uv pip install leann
 ```
 
 **Premier usage :**
