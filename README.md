@@ -161,6 +161,25 @@ Techniques de débogage assisté par IA
 
 ---
 
+## 🧰 Outils - Context Engineering Toolkit
+
+> *Outils techniques pour indexation, recherche et optimisation du contexte*
+
+### [RAG & Recherche Sémantique](outils/#rag--recherche-sémantique)
+- **[LEANN](outils/rag/leann.md)** 🧠 - RAG local ultra-efficace avec 97% économie stockage, intégration MCP native
+- **[Chroma](outils/rag/chroma.md)** 🚧 *TODO* - Base vectorielle open-source
+- **[LanceDB](outils/rag/lancedb.md)** 🚧 *TODO* - Base vectorielle multimodale
+
+### [Analytics & Monitoring](outils/#analytics--monitoring) 🚧 *TODO*
+Outils pour mesurer et optimiser l'efficacité du Context Engineering
+
+### [Automation & Workflows](outils/#automation--workflows) 🚧 *TODO*  
+Pipelines automatisés et intégrations cross-agents
+
+**Pourquoi cette section ?** Les agents IA seuls ne suffisent pas - il faut un écosystème d'outils pour indexer, rechercher et optimiser le contexte fourni.
+
+---
+
 ## 🔗 Autres ressources
 
 > *Ressources complémentaires et projets connexes*
