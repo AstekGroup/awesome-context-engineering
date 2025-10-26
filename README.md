@@ -112,6 +112,11 @@ Tableau comparatif des forces et cas d'usage de chaque agent
 - **Principe** : Un "README pour les agents" - instructions dédiées et prévisibles pour l'IA
 - **Avantages** : Compatible avec tous les outils, format flexible, support monorepo
 
+#### [Spec Kit](frameworks/spec-kit/) 📋
+- **Framework officiel** → [Spec Kit Repository](https://github.com/github/spec-kit)
+- **Principe** : Développement piloté par les spécifications (Spec-Driven Development)
+- **Avantages** : Simple. Utilisable en solo. Spécifications exécutables, génération automatique d'implémentations, workflow /specify → /plan → /tasks
+
 #### [BMAD-METHOD](frameworks/bmad-method/) 🔥
 - **Framework officiel** → [BMAD-METHOD Repository](https://github.com/bmad-code-org/BMAD-METHOD)
 - **[Agentic Planning Strategies](frameworks/bmad-method/agentic-planning.md)** 🚧 *TODO* - Planification collaborative multi-agents
